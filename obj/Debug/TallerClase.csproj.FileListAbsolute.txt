@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\TallerClase\bin\Debug\TallerClase.exe.config
+C:\Users\Usuario\source\repos\TallerClase\bin\Debug\TallerClase.exe
+C:\Users\Usuario\source\repos\TallerClase\bin\Debug\TallerClase.pdb
+C:\Users\Usuario\source\repos\TallerClase\obj\Debug\TallerClase.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TallerClase\obj\Debug\TallerClase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TallerClase\obj\Debug\TallerClase.exe
+C:\Users\Usuario\source\repos\TallerClase\obj\Debug\TallerClase.pdb
