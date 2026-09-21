@@ -43,11 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Circulo.cs" />
+    <Compile Include="alumno.cs" />
+    <Compile Include="ClaseAnterior\Circulo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Rectangulo.cs" />
-    <Compile Include="Triangulo.cs" />
+    <Compile Include="ClaseAnterior\Rectangulo.cs" />
+    <Compile Include="ClaseAnterior\Triangulo.cs" />
+    <Compile Include="Salon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
